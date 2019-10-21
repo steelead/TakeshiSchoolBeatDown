@@ -1,5 +1,6 @@
 *.vcxproj*
 *.sln
+Debug
 Debug/*
 x64/*
 enc_temp_folder
