@@ -5,4 +5,5 @@ Debug/*
 x64/*
 enc_temp_folder
 Release
-TakeshiGod/.vs/*
+TakeshiGod/.vs*
+.vs*
